@@ -15,7 +15,7 @@ void insertfrst(int dt)
     n->next = head;
     head = n;
 }
-
+// hello
 void insertEnd(int dt)
 {
     node *n = new node();
