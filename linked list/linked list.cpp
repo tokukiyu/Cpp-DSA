@@ -60,7 +60,7 @@ void display(node *n)
 
 int main(int argc, char const *argv[])
 {
-    cout<<"hello";
+    cout << "hello";
     int array[] = {1, 2, 3, 4, 2, 444, 4};
     int s = sizeof(array) / sizeof(array[1]);
     int i = 0;
@@ -74,3 +74,4 @@ int main(int argc, char const *argv[])
 
     return 0;
 }
+/// a
